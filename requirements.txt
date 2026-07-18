@@ -1,0 +1,15 @@
+boto3
+botocore
+pandas
+numpy
+faker
+matplotlib
+seaborn
+pyarrow
+fastparquet
+python-dotenv
+pytest
+tenacity
+rich
+jupyter
+ipykernel

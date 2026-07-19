@@ -1,0 +1,11 @@
+Rules = [
+
+    IsComplete "order_id",
+
+    IsComplete "customer_id",
+
+    IsComplete "order_ts",
+
+    IsUnique "order_id"
+
+]
